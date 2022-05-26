@@ -1,0 +1,2 @@
+# Polling-System-Java-Application
+The Online Polling System is a Java application which has important features related to GUI and database properties that determine the software requirements for this project. This  project is meant for small scale voting processes like college elections or feedback forms. In  this project, we will provide an online tool to vote on various questions submitted by the administrator/organizer.
